@@ -1,4 +1,4 @@
-# SVG Spinners
+# SVG Loaders
 
 All spinners are displayed as 24 x 24 dp. The main content rests inside the live area of 22 dp with a padding of 1dp.
 
