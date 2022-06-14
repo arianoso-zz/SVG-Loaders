@@ -22,5 +22,11 @@ All spinners are displayed as 24 x 24 dp. The main content rests inside the live
     <td>
       <a href="https://github.com/arianoso/svg-spinners/blob/main/svg/audio.svg"><picture><source media="(prefers-color-scheme: dark)"srcset="https://raw.githubusercontent.com/arianoso/svg-spinners/main/preview/audio.svg">
         <img src="https://raw.githubusercontent.com/arianoso/svg-spinners/main/preview/audio.svg">
-        </picture></a></td><td><a href="https://github.com/arianoso/svg-spinners/blob/main/svg/audio.svg">audio.svg</a></td><td>2637</td></tr>
+        </picture></a></td><td><a href="https://github.com/arianoso/svg-spinners/blob/main/svg/audio.svg">audio.svg</a></td><td>1347</td></tr>
+
+        <tr>
+    <td>
+      <a href="https://github.com/arianoso/svg-spinners/blob/main/svg/ball-triangle.svg"><picture><source media="(prefers-color-scheme: dark)"srcset="https://raw.githubusercontent.com/arianoso/svg-spinners/main/preview/ball-triangle.svg">
+        <img src="https://raw.githubusercontent.com/arianoso/svg-spinners/main/preview/ball-triangle.svg">
+        </picture></a></td><td><a href="https://github.com/arianoso/svg-spinners/blob/main/svg/ball-triangle.svg">ball-triangle.svg</a></td><td>1926</td></tr>
 </tr></table>
